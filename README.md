@@ -5,4 +5,4 @@ Flash Chat is an internet based messaging app similar to WhatsApp, the popular m
 
 Pod source files aren't included in this repositary and needs to be downloaded seperately.
 
->This is a companion project to The App Brewery's Complete App Developement Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)![End Banner]
+>This is a companion project to The App Brewery's Complete App Developement Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)!
